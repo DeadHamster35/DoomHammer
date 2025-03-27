@@ -1,0 +1,11 @@
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\obj\Debug\DoomHammer.csproj.AssemblyReference.cache
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\obj\Debug\DoomHammer.csproj.SuggestedBindingRedirects.cache
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\obj\Debug\DoomHammer.DoomHammerMain.resources
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\obj\Debug\DoomHammer.Properties.Resources.resources
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\obj\Debug\DoomHammer.csproj.GenerateResource.cache
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\obj\Debug\DoomHammer.csproj.CoreCompileInputs.cache
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\bin\Debug\DoomHammer.exe.config
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\bin\Debug\DoomHammer.exe
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\bin\Debug\DoomHammer.pdb
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\obj\Debug\DoomHammer.exe
+C:\Users\AuditorFOB\Desktop\Code\DoomHammer\DoomHammer\DoomHammer\obj\Debug\DoomHammer.pdb

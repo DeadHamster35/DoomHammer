@@ -1,0 +1,1 @@
+DoomHammer is a map editor for Warcraft 2 .PUD files. It will mirror the Terrain of the map from the Top or Left half of the screen overtop of the Bottom or Right half. This makes designing symmetrical levels much easier. 
